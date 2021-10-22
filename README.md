@@ -24,4 +24,4 @@ The assignment starts with a rectangle with two symmetric circles on either side
 
 ## Reflection
 
-Though this assignment was slightly time consuming and was only used as practice is was a useful test of our skills in CAD.
+The way we were walked through different keybinds and the tools on the hotbar was good for future reference. Though this assignment was slightly time consuming and was only used as practice is was a useful test of our skills in CAD. 
