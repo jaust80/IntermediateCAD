@@ -5,7 +5,7 @@
 
 ## Description
 
-
+The assignment starts with a rectangle with two symmetric circles on either side, you then go on to extrude it and cut out holes for screws. You will then add a fillet along the edge and specify the material it is made out of. In the second part of the project you will make the trucks which is the most time consuming part of the assignment. In the third part you will make a wheel and a bearing which are very straightforward when you have the directions in front of you.
 
 ## Evidence
 
@@ -23,3 +23,5 @@
 
 
 ## Reflection
+
+Though this assignment was slightly time consuming and was only used as practice is was a useful test of our skills in CAD.
