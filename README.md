@@ -2,23 +2,39 @@
 
 ## Skateboard
 
+The objective for this assignment was to make a skateboard using new keybind and tools that not everybody was familiar with. These new skills can be applied to future projects to increase productivity.
 
-## Description
+[Here's a link to my document in Onshape]()
 
-The assignment starts with a rectangle with two symmetric circles on either side, you then go on to extrude it and cut out holes for screws. You will then add a fillet along the edge and specify the material it is made out of. In the second part of the project you will make the trucks which is the most time consuming part of the assignment. In the third part you will make a wheel and a bearing which are very straightforward when you have the directions in front of you.
-
-## Evidence
-
-![truck](https://user-images.githubusercontent.com/71342179/137741709-c0cbabcf-653d-4f3a-9fc9-f7337655376d.png)
-
+## 2.1 The Deck
 
 ![deck](https://user-images.githubusercontent.com/71342179/137741834-d2141ce5-3952-41a0-80dd-1ca510058268.png)
 
+Obviously shift s will start a new sketch but something I didn't know is that shift f can be used to quick select the fillet tool.
+
+## 2.2 The Trucks
+
+![truck](https://user-images.githubusercontent.com/71342179/137741709-c0cbabcf-653d-4f3a-9fc9-f7337655376d.png)
+
+The offset tool proved useful in this section due to the placement of the screws on the deck. It can be used in a sketch to make another sketch slightly inwards or outwards from the original.
+
+## 2.3 Wheels and Bearings
 
 ![wheel](https://user-images.githubusercontent.com/71342179/137742122-beb68cdf-f435-4dc8-9b56-201c2b09041d.png)
 
+To shape the wheel we used the revolve tool. This can be used with the R key is utilized to turn a flat plane into a extruded circle.
+
+## 2.4 Putting it All Together
 
 ![assembly](https://user-images.githubusercontent.com/71342179/137741855-e42fa6ad-c84a-485a-ba65-5262fb1df62f.png)
+
+The main takeaway from this part of the assignment is the replicate tool. With this you can take a piece in an assembly and replicate it over all other similar faces in the assembly.
+
+
+
+
+
+
 
 
 
