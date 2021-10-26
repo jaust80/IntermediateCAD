@@ -30,14 +30,3 @@ To shape the wheel we used the revolve tool. This can be used with the R key is 
 
 The main takeaway from this part of the assignment is the replicate tool. With this you can take a piece in an assembly and replicate it over all other similar faces in the assembly.
 
-
-
-
-
-
-
-
-
-## Reflection
-
-The way we were walked through different keybinds and the tools on the hotbar was good for future reference. Though this assignment was slightly time consuming and was only used as practice is was a useful test of our skills in CAD. 
